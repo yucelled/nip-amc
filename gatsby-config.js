@@ -1,10 +1,10 @@
 module.exports = {
   pathPrefix: '/gatsby-starter-scientist',
   siteMetadata: {
-    author: 'Diogenes Teufelsdröckh',
-    description: 'Transcendentalist musings on the future of robots',
+    author: 'Guido van Wingen',
+    description: 'Neuroimaging in psychiatry | AMC',
     siteUrl: 'https://knightjdr.github.io/gatsby-starter-scientist',
-    title: 'Teufelsdröckh laboratory',
+    title: 'van Wingen Lab',
     // List of link buttons to include on the landing image. Delete this field
     // and/or all entires if you do not want these links.
     // options: 'contact', 'opportunities', 'people', 'publications', 'research'
